@@ -10,11 +10,11 @@ Scrape the weather forecast of the Japan Meteorological Agency
 
 ### 地域一覧 | region list
 
-`https://weather-jp.github.io/jma-weather-api/data/forecast/index.json`
+`https://yukishiba.github.io/jma-weather-api/data/forecast/index.json`
 
 ### 各地域の予報 | forecast of each region
 
 エリアリストからidを選択し、ファイルパスに設定してください。  
 Choose ID from region list, and set into the file path.
 
-`https://weather-jp.github.io/jma-weather-api/data/forecast/{ID}.json`
+`https://yukishiba.github.io/jma-weather-api/data/forecast/{ID}.json`
